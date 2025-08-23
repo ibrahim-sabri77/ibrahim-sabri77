@@ -7,14 +7,9 @@
 **Mobile Developer** specialized in building cross-platform applications using **Flutter**.  
 I enjoy creating clean, efficient, and user-friendly apps, and I'm always learning new tools and technologies to improve my skills.  
 
-- 📱 Mobile App Development with Flutter & Dart  
-- 🔐 Interested in Cybersecurity & Penetration Testing  
-- 🎓 Computer Science graduate (Faculty of Computers & Information – Arish University)  
-- 💡 Open to collaboration on innovative mobile projects  
-
 ## Skills
 - 💻 Programming: Python, C++, HTML, CSS, JavaScript
-- 📱 Mobile Dev: Flutter, Firebase
+- 📱 Mobile Dev: Flutter, Dart, Firebase
 - 🛠 Tools: Git, GitHub, VS Code, Linux
 
 ## GitHub Stats
