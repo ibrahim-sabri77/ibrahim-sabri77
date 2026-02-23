@@ -1,34 +1,83 @@
 Hi there 👋, I'm Ibrahim Sabri
+🚀 Software Engineer | Mobile Application Developer
 
-About Me
+I design and build scalable, high-performance mobile applications with clean architecture and modern user experiences.
+Focused on writing maintainable code, optimizing performance, and delivering production-ready software solutions.
 
-Software Engineer specialized in building scalable cross-platform mobile applications using Flutter & Firebase.
-I focus on clean architecture, high performance, and creating modern, user-friendly applications ready for real-world use.
+💡 About Me
 
-Skills
+🎓 Computer Science Graduate
 
-💻 Programming: Python, C++, JavaScript, HTML, CSS
+📱 Specialized in Cross-Platform Development
 
-📱 Mobile Development: Flutter, Dart, Firebase, REST APIs
+🏗 Passionate about clean architecture and structured code
 
-🗄 Databases: Firestore, SQLite
+📈 Focused on performance, usability, and scalability
 
-🛠 Tools: Git, GitHub, VS Code, Linux, Postman
+💬 Continuously learning and improving
 
-GitHub Stats
+🛠 Tech Stack
+📱 Mobile Development
 
-Top Languages
+Flutter
 
-Projects
+Dart
 
-Social Media App – A full-featured social platform with posts, follow system, likes, comments, reposts, bookmarks, and real-time chat using Firebase.
+Firebase (Authentication, Firestore)
 
-Task Manager App – A productivity app that allows users to create tasks, mark them as done, archive, and delete with a clean interface.
+REST API Integration
 
-E-Commerce App – A modern shopping application with authentication, product browsing, cart management, and checkout flow.
+State Management (Bloc / Provider)
 
-News App – A categorized news application that fetches articles from external APIs with a responsive and clean UI.
+💻 Programming
 
-University Housing Management App – A complete mobile solution for managing student accommodation and services.
+Python
 
-Let's Connect
+C++
+
+JavaScript
+
+HTML5 & CSS3
+
+🗄 Backend & Data
+
+Cloud Firestore
+
+RESTful APIs
+
+Local Storage (SQLite / SharedPreferences)
+
+⚙ Tools
+
+Git & GitHub
+
+VS Code
+
+Linux
+
+Postman
+
+Figma
+
+📂 Featured Projects
+🔹 Social Media Application
+
+A full-featured social platform with posts, follow system, likes, comments, reposts, bookmarks, and real-time chat using Firebase backend.
+
+🔹 Task Manager Application
+
+A productivity app with task creation, completion tracking, archiving, and structured local storage.
+
+🔹 E-Commerce Application
+
+Modern shopping app with authentication, product browsing, cart management, and smooth checkout experience.
+
+🔹 News Application
+
+A news app that fetches articles from external APIs, displays categorized content, and provides a clean reading experience with responsive UI.
+
+🔹 University Housing Management App
+
+A comprehensive solution for managing student accommodation and related services.
+
+📊 GitHub Stats
