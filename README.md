@@ -1,29 +1,34 @@
-# Hi there 👋, I'm Ibrahim Sabri
+Hi there 👋, I'm Ibrahim Sabri
 
-![Profile Views](https://komarev.com/ghpvc/?username=ibrahim-sabri77&color=blue)
+About Me
 
-## About Me
+Software Engineer specialized in building scalable cross-platform mobile applications using Flutter & Firebase.
+I focus on clean architecture, high performance, and creating modern, user-friendly applications ready for real-world use.
 
-**Mobile Developer** specialized in building cross-platform applications using **Flutter**.  
-I enjoy creating clean, efficient, and user-friendly apps, and I'm always learning new tools and technologies to improve my skills.  
+Skills
 
-## Skills
-- 💻 Programming: Python, C++, HTML, CSS, JavaScript
-- 📱 Mobile Dev: Flutter, Dart, Firebase
-- 🛠 Tools: Git, GitHub, VS Code, Linux
+💻 Programming: Python, C++, JavaScript, HTML, CSS
 
-## GitHub Stats
-![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahim-sabri77&show_icons=true&theme=radical)
+📱 Mobile Development: Flutter, Dart, Firebase, REST APIs
 
-## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-sabri77&layout=compact&theme=radical)
+🗄 Databases: Firestore, SQLite
 
-## Projects
-- [University App](link-to-project) - A complete app for campus management
-- [Password Checker](link-to-project) - Python tool to check if passwords have been leaked
-- [Flutter Apps](link-to-projects) - Mobile apps built with Flutter and Firebase
+🛠 Tools: Git, GitHub, VS Code, Linux, Postman
 
----
+GitHub Stats
 
-### Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ibrahim-sabry-99a45b348)
+Top Languages
+
+Projects
+
+Social Media App – A full-featured social platform with posts, follow system, likes, comments, reposts, bookmarks, and real-time chat using Firebase.
+
+Task Manager App – A productivity app that allows users to create tasks, mark them as done, archive, and delete with a clean interface.
+
+E-Commerce App – A modern shopping application with authentication, product browsing, cart management, and checkout flow.
+
+News App – A categorized news application that fetches articles from external APIs with a responsive and clean UI.
+
+University Housing Management App – A complete mobile solution for managing student accommodation and services.
+
+Let's Connect
