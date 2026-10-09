@@ -1,4 +1,4 @@
-# Hi there , I'm Ibrahim Sabry
+# Hi there, I'm Ibrahim Sabry
 
 🚀 **Software Engineer | Machine Learning & AI Developer**
 
@@ -29,4 +29,50 @@ My focus is on Python and C++, AI-powered applications, backend systems, and per
 - Generative AI & LLM-powered Applications
 - Model Evaluation and Performance Optimization
 
-**Backend & Dat
+**Backend & Databases**
+- Django
+- REST APIs
+- PostgreSQL
+- MySQL
+- MongoDB
+- Firebase / Cloud Firestore
+- SQLite
+
+**Systems & Tools**
+- Linux
+- Docker
+- Git & GitHub
+- VS Code
+- Postman
+
+**Application Development**
+- Flutter
+- Dart
+- Firebase Authentication
+- State Management (BLoC / Provider)
+
+## 📂 Featured Projects
+
+### 🔹 Social Media Application
+A social networking application featuring user profiles, posts, likes, comments, follows, bookmarks, reposts, and real-time chat using Firebase.
+
+### 🔹 Task Manager Application
+A productivity application with task creation, completion tracking, archiving, and local data persistence.
+
+### 🔹 E-Commerce Application
+A shopping application featuring authentication, product browsing, cart management, and a user-friendly interface.
+
+### 🔹 News Application
+A news application that integrates external APIs to retrieve and display categorized articles.
+
+### 🔹 University Housing Management App
+An application designed to support student accommodation management and related services.
+
+
+## 📫 Connect With Me
+
+- **Email:** anahema0110@gmail.com
+
+---
+
+⭐ Feel free to explore my repositories and follow my journey in software engineering and AI.
