@@ -1,83 +1,32 @@
-Hi there 👋, I'm Ibrahim Sabri
-🚀 Software Engineer | Mobile Application Developer
+# Hi there , I'm Ibrahim Sabry
 
-I design and build scalable, high-performance mobile applications with clean architecture and modern user experiences.
-Focused on writing maintainable code, optimizing performance, and delivering production-ready software solutions.
+🚀 **Software Engineer | Machine Learning & AI Developer**
 
-💡 About Me
+I build software solutions that combine strong engineering principles with machine learning and AI capabilities. I'm interested in developing reliable applications, optimizing system performance, and turning ideas and prototypes into practical, maintainable software.
 
-🎓 Computer Science Graduate
+My focus is on Python and C++, AI-powered applications, backend systems, and performance optimization.
 
-📱 Specialized in Cross-Platform Development
+## 💡 About Me
 
-🏗 Passionate about clean architecture and structured code
+- 🎓 Computer Science Graduate — Arish University
+- 🤖 Interested in Machine Learning, Deep Learning, and Generative AI
+- 💻 Focused on Python, C++, and software development
+- ⚙️ Interested in system performance, profiling, and optimization
+- 🔌 Experienced with application development and REST API integration
+- 📚 Continuously learning and building practical projects
 
-📈 Focused on performance, usability, and scalability
+## 🛠️ Tech Stack
 
-💬 Continuously learning and improving
+**Programming Languages**
+- Python
+- C++
+- JavaScript
+- Dart
 
-🛠 Tech Stack
-📱 Mobile Development
+**AI & Machine Learning**
+- Machine Learning
+- Deep Learning
+- Generative AI & LLM-powered Applications
+- Model Evaluation and Performance Optimization
 
-Flutter
-
-Dart
-
-Firebase (Authentication, Firestore)
-
-REST API Integration
-
-State Management (Bloc / Provider)
-
-💻 Programming
-
-Python
-
-C++
-
-JavaScript
-
-HTML5 & CSS3
-
-🗄 Backend & Data
-
-Cloud Firestore
-
-RESTful APIs
-
-Local Storage (SQLite / SharedPreferences)
-
-⚙ Tools
-
-Git & GitHub
-
-VS Code
-
-Linux
-
-Postman
-
-Figma
-
-📂 Featured Projects
-🔹 Social Media Application
-
-A full-featured social platform with posts, follow system, likes, comments, reposts, bookmarks, and real-time chat using Firebase backend.
-
-🔹 Task Manager Application
-
-A productivity app with task creation, completion tracking, archiving, and structured local storage.
-
-🔹 E-Commerce Application
-
-Modern shopping app with authentication, product browsing, cart management, and smooth checkout experience.
-
-🔹 News Application
-
-A news app that fetches articles from external APIs, displays categorized content, and provides a clean reading experience with responsive UI.
-
-🔹 University Housing Management App
-
-A comprehensive solution for managing student accommodation and related services.
-
-📊 GitHub Stats
+**Backend & Dat
